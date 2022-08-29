@@ -1,5 +1,5 @@
-var num = 123;
 
-function suma(num){
-    return num+1
+
+function cuadrado(num){
+    return num*num
 }
